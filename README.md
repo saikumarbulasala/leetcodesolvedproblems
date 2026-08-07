@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
