@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 ## Quicksort
 |  |
 | ------- |
