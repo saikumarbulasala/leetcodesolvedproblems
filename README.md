@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
@@ -216,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
