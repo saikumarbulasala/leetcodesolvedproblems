@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
