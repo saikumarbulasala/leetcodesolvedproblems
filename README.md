@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
