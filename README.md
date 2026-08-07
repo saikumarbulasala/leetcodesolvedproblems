@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
