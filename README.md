@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0371-sum-of-two-integers) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
