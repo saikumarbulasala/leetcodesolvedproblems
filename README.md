@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
+| [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
