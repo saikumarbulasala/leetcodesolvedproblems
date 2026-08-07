@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
