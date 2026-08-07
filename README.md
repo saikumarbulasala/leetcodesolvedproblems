@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
