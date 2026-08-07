@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
