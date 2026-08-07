@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0013-roman-to-integer) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
