@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
