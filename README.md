@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
