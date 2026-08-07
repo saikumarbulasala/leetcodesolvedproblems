@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
