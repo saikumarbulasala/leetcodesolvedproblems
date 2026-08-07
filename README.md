@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0151-reverse-words-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
