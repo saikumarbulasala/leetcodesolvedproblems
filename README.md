@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0136-single-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -301,4 +304,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
