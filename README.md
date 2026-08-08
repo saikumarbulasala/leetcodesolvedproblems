@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
@@ -320,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -421,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0701-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
