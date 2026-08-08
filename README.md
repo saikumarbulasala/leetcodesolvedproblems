@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
