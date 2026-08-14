@@ -14,17 +14,19 @@ public:
     void inorder(TreeNode* root, long mini, long maxi, bool &ans){
         if(root == nullptr) return;
         inorder(root -> left, mini, root -> val, ans);
-        if(root -> val <= mini || root -> val >= maxi) {
+        if(root -> val <= mini || root -> val >= maxi){
             ans = false;
         }
         inorder(root -> right, root -> val, maxi, ans);
     }
     bool isValidBST(TreeNode* root) {
+
         bool ans = true;
+
         long mini = LONG_MIN;
         long maxi = LONG_MAX;
         inorder(root, mini, maxi, ans);
         return ans;
-
+        
     }
 };
