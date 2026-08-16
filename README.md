@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1446-consecutive-characters](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1446-consecutive-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
