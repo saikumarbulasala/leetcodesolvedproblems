@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0257-binary-tree-paths](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0662-maximum-width-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3310-remove-methods-from-project) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0257-binary-tree-paths](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0662-maximum-width-of-binary-tree) |
