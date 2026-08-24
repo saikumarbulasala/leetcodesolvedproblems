@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0078-subsets](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
