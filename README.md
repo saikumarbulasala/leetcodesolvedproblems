@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
