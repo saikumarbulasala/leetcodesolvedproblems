@@ -8,6 +8,5 @@ public:
             maxInd = max(maxInd, i + nums[i]);
         }
         return true;
-        
     }
 };
