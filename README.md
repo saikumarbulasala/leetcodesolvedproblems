@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0678-valid-parenthesis-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
