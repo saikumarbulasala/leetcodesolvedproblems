@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0229-majority-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0055-jump-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0055-jump-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0860-lemonade-change) |
