@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0860-lemonade-change](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bracket Sequences
