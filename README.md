@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3348-smallest-divisible-digit-product-ii) |
