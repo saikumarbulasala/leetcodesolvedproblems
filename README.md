@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0560-subarray-sum-equals-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0860-lemonade-change) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0209-minimum-size-subarray-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0992-subarrays-with-k-different-integers) |
