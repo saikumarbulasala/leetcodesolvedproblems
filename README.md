@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0992-subarrays-with-k-different-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String Matching
