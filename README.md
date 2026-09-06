@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0992-subarrays-with-k-different-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1029-two-city-scheduling](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1029-two-city-scheduling) |
 | [1140-stone-game-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
+| [1029-two-city-scheduling](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0678-valid-parenthesis-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1029-two-city-scheduling](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -628,4 +631,12 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
