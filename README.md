@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0605-can-place-flowers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1140-stone-game-ii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -620,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
