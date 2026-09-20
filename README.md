@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
 |  |
