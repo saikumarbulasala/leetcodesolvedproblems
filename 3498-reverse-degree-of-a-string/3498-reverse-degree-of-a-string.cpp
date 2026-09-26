@@ -6,7 +6,6 @@ public:
         for(int i = 0;i<n;i++){
             revDeg += ('z' - s[i] + 1) * (i + 1);
         }
-
         return revDeg;
     }
 };
