@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
