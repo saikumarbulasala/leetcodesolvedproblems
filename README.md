@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0050-powx-n](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0239-sliding-window-maximum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0205-isomorphic-strings](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0424-longest-repeating-character-replacement) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0215-kth-largest-element-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0137-single-number-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0371-sum-of-two-integers) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
@@ -490,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
