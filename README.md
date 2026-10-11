@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Graph Theory
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
