@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3348-smallest-divisible-digit-product-ii) |
