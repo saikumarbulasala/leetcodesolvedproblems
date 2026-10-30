@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1140-stone-game-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1903-largest-odd-number-in-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1140-stone-game-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
