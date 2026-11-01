@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1672-richest-customer-wealth](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1710-maximum-units-on-a-truck) |
 | [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 ## Quicksort
 |  |
