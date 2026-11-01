@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0633-sum-of-square-numbers) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0496-next-greater-element-i) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0692-top-k-frequent-words) |
