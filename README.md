@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [3536-maximum-product-of-two-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3895-count-digit-appearances) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3895-count-digit-appearances) |
