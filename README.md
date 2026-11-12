@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1248-count-number-of-nice-subarrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1004-max-consecutive-ones-iii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1901-find-a-peak-element-ii) |
 ## Quicksort
