@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [3718-smallest-missing-multiple-of-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3945-digit-frequency-score](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
