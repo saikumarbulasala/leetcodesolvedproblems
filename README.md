@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2778-sum-of-squares-of-special-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3731-find-missing-elements) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1140-stone-game-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
