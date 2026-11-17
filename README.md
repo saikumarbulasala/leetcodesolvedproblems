@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2404-most-frequent-even-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2951-find-the-peaks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2951-find-the-peaks) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2404-most-frequent-even-element) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2351-first-letter-to-appear-twice](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2404-most-frequent-even-element) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String Matching
 |  |
