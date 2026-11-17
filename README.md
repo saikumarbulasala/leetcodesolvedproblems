@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0242-valid-anagram](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0451-sort-characters-by-frequency) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Sai
 | [0240-search-a-2d-matrix-ii](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saikumarbulasala/leetcodesolvedproblems/tree/master/0540-single-element-in-a-sorted-array) |
